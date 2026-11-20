@@ -338,7 +338,7 @@ El archivo de Packet Tracer (`.pkt`) está en la carpeta `packet-tracer/`, para 
 
 ## Sobre mí
 
-Soy Técnico Universitario en Redes Informáticas y Telecomunicaciones (Universidad Siglo 21) y tengo 26 materias aprobadas de la Licenciatura en Informática. Hace varios años que ayudo a la gente con problemas de PC, software y redes de casa, y lo que más me gusta es la parte de redes. Ahora estoy cursando CCNA (módulo ITN) y preparando el MTCNA de MikroTik, y voy a seguir subiendo laboratorios.
+Soy Técnico Universitario en Redes Informáticas y Telecomunicaciones (Universidad Siglo 21) y estoy cursando la Licenciatura en Informática, con 26 materias aprobadas. Desde 2020 trabajo de forma independiente brindando soporte técnico a usuarios, con tareas de hardware, software, Windows, conectividad y redes domésticas. Mi objetivo es desarrollarme profesionalmente en redes e infraestructura, con especial interés en proveedores de Internet y cooperativas. Continúo formándome mediante cursos y laboratorios prácticos con Cisco Packet Tracer y MikroTik RouterOS.
 
 LinkedIn: [linkedin.com/in/idersalto](https://www.linkedin.com/in/idersalto)
 
